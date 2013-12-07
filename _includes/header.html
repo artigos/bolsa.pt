@@ -1,0 +1,10 @@
+<header>
+  <h1><a href="/">Bolsa.pt</a></h1>
+  <p>Informações sobre a bolsa de valores.</p>
+  {% include adsense.html %}
+  <ul>
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</header>
