@@ -13,7 +13,7 @@ Principalmente para o investidor iniciante é muito importante ter uma carteira 
 
 ##Aumentar a carteira, mas com um plano
 
-Quando se fala em carteira diversificada não significa que tenha que comprar imensas ações diferentes. Enquanto pode parecer simples comprar várias ações, o investidor tem que ter um [plano de investimento]({% post_url 2014-02-02-como-preparar-um-plano-de-investimento %} onde define que tipo de ações comprar.
+Quando se fala em carteira diversificada não significa que tenha que comprar imensas ações diferentes. Enquanto pode parecer simples comprar várias ações, o investidor tem que ter um [plano de investimento]({% post_url 2014-02-02-como-preparar-um-plano-de-investimento %}) onde define que tipo de ações comprar.
 
 Ter imensas ações diferentes, mas todas com o mesmo risco não vai ser positivo para a sua carteira.
 
@@ -31,7 +31,7 @@ A questão do relacionamento nem sempre é assim tão óbvia, por isso deve aval
 
 ##Maior risco, menor risco
 
-Se possuir ações não relacionadas é importante, ter ações de diferentes riscos também o é. Existem vários [tipos de ações]({% post_url 2014-01-27-5-tipos-de-acoes-da-bolsa %}, umas com um risco mais elevado enquanto outras são mais conservadoras.
+Se possuir ações não relacionadas é importante, ter ações de diferentes riscos também o é. Existem vários [tipos de ações]({% post_url 2014-01-27-5-tipos-de-acoes-da-bolsa %}), umas com um risco mais elevado enquanto outras são mais conservadoras.
 
 Quando constrói a sua carteira, deve ter incluir vários tipos de ações, ações de risco elevado e ações de risco baixo. Ainda que seja tentador ter apenas ações de alto risco, pois são estas que também oferecem o maior lucro, é arriscado confiar todo o seu investimento em algo com um risco elevado.
 

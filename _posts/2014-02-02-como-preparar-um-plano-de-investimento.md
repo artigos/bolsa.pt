@@ -35,7 +35,7 @@ Se for um investidor iniciante é preferível ter apenas um objetivo em simultâ
 
 Apenas após definir o seu objetivo pode traçar o seu plano de investimento. Independentemente do objetivo, lembre-se que deverá sempre ter uma carteira diversificada.
 
-Deverá ter em conta os [tipos de ações]({% post_url 2014-01-27-5-tipos-de-acoes-da-bolsa %} e os riscos/recompensa que cada uma apresenta. O tipo de ações que escolhe depende do seu objetivo, se é a longo ou curto prazo, se pretende alcançar baixos ou altos valores, etc.
+Deverá ter em conta os [tipos de ações]({% post_url 2014-01-27-5-tipos-de-acoes-da-bolsa %}) e os riscos/recompensa que cada uma apresenta. O tipo de ações que escolhe depende do seu objetivo, se é a longo ou curto prazo, se pretende alcançar baixos ou altos valores, etc.
 
 Se não tiver pressa nem necessitar de grande rendimento, pode optar por ações de baixo risco e de baixo rendimento, mas mais seguras. Se por outro lado, o seu objetivo é obter um rendimento elevado num curto espaço de tempo, então terá que optar por ações de alto risco e de alto rendimento. Esta escolha vai também depender do valor que tem disponível para investir e de quanto se pode arriscar a perder.
 
