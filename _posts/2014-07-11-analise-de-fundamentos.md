@@ -38,27 +38,33 @@ Taxa de crescimento após 5 primeiros anos 5%
 
 ##Parte 1: Prever 5 anos de Fluxos Monetários
 
+|-----------------------------+------+------+------+------+------|
 |                             | 1    | 2    | 3    | 4    | 5    |
+|-----------------------------|-----:|-----:|-----:|-----:|-----:|
 | Fluxo monetário ano passado | 100€ | 115€ | 132€ | 152€ | 175€ |
 | Taxa de Crescimento         | 15%  | 15%  | 15%  | 15%  | 15%  |
 | Fluxo monetário             | 115€ | 132€ | 152€ | 175€ | 201€ |
 | Fator desconto              | 0.93 | 0.86 | 0.79 | 0.74 | 0.68 |
 | Valor desconto por ano      | 106€ | 113€ | 121€ | 129€ | 137€ |
+|-----------------------------+------+------+------+------+------|
 
 Somatório do Presente Valor (PV) do fluxo monetário __606€__
 
 ##Parte 2: Valor Residual
 
-|-------------------------------|-----------|
-| Fluxo monetário em 5 anos     | 201€      |
-| Taxa de crescimento           | 5%        |
-| Fluxo monetário em 6 anos     | 211.19€   |
-| Taxa de capitalização         | 3%        |
-| Valor no final do ano 5       | 7,039.75€ |
-| Fator desconto final do ano 5 | 0.68      |
-| PV ou valor residual          | 4,791.14€ |
-
-Valor Intrínseco da Empresa __5,397.18€__
+|-------------------------------+---------------|
+| Valor Residual                |               |
+|-------------------------------|--------------:|
+| Fluxo monetário em 5 anos     | 201€          |
+| Taxa de crescimento           | 5%            |
+| Fluxo monetário em 6 anos     | 211.19€       |
+| Taxa de capitalização         | 3%            |
+| Valor no final do ano 5       | 7,039.75€     |
+| Fator desconto final do ano 5 | 0.68          |
+| PV ou valor residual          | 4,791.14€     |
+|===============================+===============|
+| _Valor Intrínseco da Empresa_ | __5,397.18€__ |
+|-------------------------------+---------------|
 
 O problema com projetar muito à frente no futuro é que temos de ter em conta os diferentes ritmos a que a empresa irá crescer enquanto entra em diferentes fases. Para contornar este problema, o modelo tem duas partes: (1) determinar o somatório dos fluxos monetários futuros descontados dos próximos cinco anos (anos de um a cinco), e (2) determinar o “valor residual”, que é o somatório dos fluxos monetários futuros dos anos a partir daqui a seis anos.
 
