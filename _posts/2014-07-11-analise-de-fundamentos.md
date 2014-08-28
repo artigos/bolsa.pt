@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Análise de Fundamentos
+title: Estratégias de Seleção de Ações: Análise de Fundamentos
 ---
 
 ##Estratégias de seleção de Ações
