@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Estratégias de Seleção de Ações&#58; Análise Qualitativa
+title: Análise Qualitativa
+category: strategies
 ---
 
 #{{ page.title }}

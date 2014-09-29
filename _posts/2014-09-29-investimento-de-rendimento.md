@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Estratégias de Seleção de Ações&#58; Investimento de Rendimento
+title: Investimento de Rendimento
+category: strategies
 ---
 
 #{{ page.title }}
@@ -17,7 +18,7 @@ Deste modo, os dividendos são mais proeminentes em certas indústrias. As empre
 
 O investimento de rendimentos não é simplesmente investir em empresas com as ações mais altas (valores em euros). O indicador mais importante é o rendimento de ações calculado ao dividir-se o dividendo anual por ação pelo preço da ação. Isto mede o retorno real de dividendos que dá ao proprietário das ações. Por exemplo, uma empresa com um preço de ações de 100€ e um dividendo de 6€ por ação tem um rendimento de ações de 6%, ou um retorno de dividendos de 6%. O rendimento médio de dividendos para as empresas do S&P 500 é de 2-3%.
 
-Mas os investidores de rendimentos exigem um rendimento muito maior do que 2-3%. A maioria está à procura dum rendimento mínimo de 5-6%, o que num investimento de €1 milhão iria produzir rendimentos (antes de serem taxados) de €50.000 €60.000. O princípio motriz por trás dessa estratégia, está provavelmente a tornar-se bastante claro: encontrar boas empresas com altos rendimentos de ações sustentáveis para receber um fluxo contínuo e previsível de dinheiro a longo prazo.
+Mas os investidores de rendimentos exigem um rendimento muito maior do que 2-3%. A maioria está à procura dum rendimento mínimo de 5-6%, o que num investimento de €1 milhão iria produzir rendimentos (antes de serem taxados) de €50.000-€60.000. O princípio motriz por trás dessa estratégia, está provavelmente a tornar-se bastante claro: encontrar boas empresas com altos rendimentos de ações sustentáveis para receber um fluxo contínuo e previsível de dinheiro a longo prazo.
 
 Outro fator a considerar com no rendimento de ações é a política de dividendos passada duma empresa. Os investidores de rendimentos devem determinar se uma empresa em vista pode continuar com os seus dividendos. Se uma empresa aumentou recentemente os dividendos STI, não se esqueça de analisar essa decisão. Um grande aumento, digamos, de 1,5% para 6%, num período curto: como um ou dois anos, pode vir a ser demasiado otimista e não sustentável para o futuro. Quanto mais tempo a empresa tem vindo a pagar bons dividendos, mais provável é que irá continuar a fazê-lo no futuro. As empresas que tiveram dividendos estáveis ao longo dos últimos cinco, 10, 15 ou até mesmo 50 anos tendem a continuar essa tendência.
 

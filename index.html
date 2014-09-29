@@ -4,11 +4,21 @@ title: Bolsa.pt
 overview: true
 ---
 
+<span class="latest-article">Estratégias de Seleção de Ações</span>
+
+<ul>
+  {% for post in site.categories.strategies %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
 <span class="latest-article">Artigo sobre investir na bolsa</span>
 
 <ul>
   {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% if post.category != "strategies" %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Estratégias de Seleção de Ações&#58; Investimento em Valor
+title: Investimento em Valor
+category: strategies
 ---
 
 #{{ page.title }}

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Estratégias de Seleção de Ações&#58; Análise de Fundamentos
+title: Análise de Fundamentos
+category: strategies
 ---
 
 ##Estratégias de seleção de Ações
