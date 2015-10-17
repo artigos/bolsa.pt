@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estratégias de Escolha de Acções: CAN SLIM
+title: Estratégias de Escolha de Acções&#58; CAN SLIM
 ---
 
 #{{ page.title }}
