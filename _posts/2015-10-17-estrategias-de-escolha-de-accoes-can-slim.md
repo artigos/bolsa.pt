@@ -91,11 +91,17 @@ O CAN SLIM sustenta que a melhor forma de monitorizar as condições de mercado 
 Aqui fica um recapitular dos sete critérios CAN SLIM: 
 
 C = (Current quarterly earnings per share) Ganhos correntes quadrimestrais por acção – Os ganhos devem estar pelo menos nos 18-20%.
+
 A = (Annual earnings per share) Ganhos anuais por acção – Estes números devem mostrar crescimento significativo durante os últimos cinco anos.
+
 N = (New things) Coisas novas – compre empresas com novos produtos, nova gerência, ou mudanças novas significtivas nas condições da indústria. Mais importante ainda, compre acções quando elas atingirem novos máximos de preços. Esqueça as acções baratas; elas são-no por algum motivo.
+
 S = (Shares outstanding) Acções Vendidas (Shares Outstanding) – Este número deve ser pequeno e razoável. Os investidores CAN SLIM não procuram companhias antigas com grande capitalização.
+
 L = (Leaders) Líderes – Compre líderes de mercado, evite penduras.
+
 I = (Institutional sponsorship) Patrocínio Institucional – Compre acções que tenham pelo menos alguns patrocinadores institucionais que tenham relatórios de performance recentes superiores à média.
+
 M = (General market) Mercado Geral - O mercado deve determinar se ganha ou perde, por isso aprenda a distinguir a tendência geral do mercado e a interpretar os índices gerais de mercado (mudanças de preço e volume) e a acção dos líderes de mercado individuais.
 
 O CAN SLIM é excelente porque ele proporciona linhas de orientação fortes, mantendo a subjectividade no mínimo. Melhor ainda, ele incorpora tácticas de virtualmente todas as estratégias de investimento mais importantes. Pense nel como uma combinação de valor, crescimento, fundamentos, e mesmo um pouco de análise técnica. 
