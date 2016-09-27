@@ -3,7 +3,7 @@ layout: default
 title: Como Investir em Ações de Dividendos
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Quando avalia ações com pagamento em dividendo, o primeiro pensamento absoluto deve ser acerca da viabilidade e sustentabilidade desse mesmo dividendo.  Escolha uma empresa em que nada impedirá  esse mensageiro de lhe entregar um pagamento de 3% para a sua conta todos os anos.
 
@@ -19,7 +19,7 @@ Os investidores focados em dividendos estão menos interessados em cada troca in
 
 Obviamente, dividendo ou não, os investidores querem evitar qualquer empresa cujas ações caiam de 50€ para 30€. Mas se a mesma ação tiver caído para 45€ sem uma alteração nos fundamentais, isso não seria tão preocupante e curto prazo – porque as perdas seriam suavizadas pelo dividendo.
 
-##Factos Sobre Dividendos
+## Factos Sobre Dividendos
 
 Segue uma rápida lição acerca dos conceitos básicos de dividendo, assim como alguns termos para novos investidores, ou para aqueles que gostariam de ser relembrados.
 
@@ -31,7 +31,7 @@ Outro termo escutado frequentemente, e um fator importante no investimento em di
 
 O único problema em tudo isto é que o próprio dividendo normalmente não é pago até entre duas a quatro semanas depois da data do ex-dividendo. Mas os investidores podem vender ações a qualquer altura durante ou após a data de ex-dividendo e ainda assim receber o pagamento, mesmo que as ações já não estejam nas suas contas. É claro,  como eu já disse antes, os investidores de dividendos geralmente aplicam um período mais longo em manter, que pode ser mais que duas semanas, mas este mantém-se um ponto saliente a lembrar quando se vende uma ação paga em dividendos.
 
-##DRIPs
+## DRIPs
 
 Um plano de reinvestimento em dividendos, normalmente chamado de DRIP, é um plano oferecido pela empresa  que permite aos investidores reinvestir automaticamente dividendos de dinheiro ao comprarem ações adicionais ou ações fracionais na data de pagamento de dividendo. Esta pode ser uma excelente forma para os investidores aproveitarem o potencial  da mistura. Em vez de receber o seu cheque trimestral de dividendo, a entidade que gere o DRIP (que pode ser a empresa, um agente de transferência ou uma firma corretora) coloca o dinheiro, em seu nome, diretamente aplicado à compra de ações adicionais.
 

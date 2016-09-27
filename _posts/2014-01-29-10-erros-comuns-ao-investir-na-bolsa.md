@@ -3,15 +3,15 @@ layout: default
 title: 10 Erros comuns ao investir na bolsa
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
-##Investir na bolsa é uma atividade que pode gerar imenso lucro, mas que também o pode fazer perder imenso dinheiro.
+## Investir na bolsa é uma atividade que pode gerar imenso lucro, mas que também o pode fazer perder imenso dinheiro.
 
 Para investir na bolsa de valores é necessário bastante conhecimento, boa visão de futuro e muita reflexão na hora de comprar e vender.
 
 O investidor iniciante deve sempre começar com valores baixos, pois está mais sujeito a erros que um investidor com largos anos de experiência. Veja os erros mais comuns e aprenda com eles.
 
-##Os 10 erros mais comuns cometidos por investidores
+## Os 10 erros mais comuns cometidos por investidores
 
 1. Comprar quando as ações estão altas e vender quando estão baixas - Pode parecer óbvio, mas é muito comum. O investidor compra quando está alto, pois fica aliciado com o potencial e depois vende quando está baixo porque fica assustado com o futuro, acabando por perder dinheiro.
 

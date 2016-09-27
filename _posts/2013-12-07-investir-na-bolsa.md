@@ -3,17 +3,17 @@ layout: default
 title: Investir na bolsa
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 A pensar em dar os primeiros passos e investir na bolsa? Nada melhor do que começar por ler algumas dicas de ouro, iremos dar-lhe 12 para começar.
 
-##1. Poupar
+## 1. Poupar
 
 Antes de poder investir, você precisa de dinheiro. Não comece a investir enquanto não tiver um emprego estável e entre seis a doze meses de despesas de vida numa conta poupança, como um recurso de emergência, no caso de perder o seu emprego. Aprenda a orçamentar o seu dinheiro e a gastar os seus rendimentos de forma sábia. A maioria dos investidores tem de ter cuidado em não gastar qualquer parte dos seus lucros, e guardar algum montante de parte para o futuro, para a reforma ou para emergências.
 
 * Esteja sempre preparado para viver dentro ou até mesmo abaixo das suas possibilidades e nunca acima. Isso irá ajudá-lo a certificar-se de que terá sempre dinheiro suficiente.
 
-##2. Ler
+## 2. Ler
 
 Antes de começar a investir, precisa de uma compreensão básica do que é uma ação, o que significa investir, e como avaliar ações. Leia alguns livros básicos sobre investir na bolsa. Tente ler todos os livros que conseguir sobre investir.
 
@@ -33,45 +33,45 @@ Estes são alguns dos melhores livros e fontes para todos os verdadeiros investi
 * O Motley Fool e o Relatório Tycoon, são excelentes publicações online.
 * Wikinvest.com em [http://www.wikinvest.com](http://www.wikinvest.com) é um ótimo lugar para encontrar informação sobre empresas e conceitos no mercado. É também útil para a realização da devida diligência sobre as próprias fontes de informação de investimento. Verifique o desempenho e os conselhos de sites, newsletters e blogs. Um recurso para conduzir esta pesquisa está em Greedreviews.com (http://www.greedreviews.com).
 
-##3. Pense
+## 3. Pense
 
 O Warren Buffet diz que depois de você pensar, pense outra vez. Ele diz que se ele não conseguir preencher uma folha de papel inteira com razões para comprar uma ação, então não a comprará.
 
-##4. Pratique
+## 4. Pratique
 
 Negoceie ações em papel antes de realmente negociar ações com dinheiro real. Registe as suas negociações de ações em papel, mantendo o controlo sobre as datas das negociações, número de ações, preço das ações, lucro ou perda, incluindo comissões, impostos sobre os dividendos, impostos sobre ganhos de capital a curto e longo prazo que terá de pagar por cada  negociação. É também útil registar as razões para cada decisão de compra ou venda. Calcule seu lucro ou prejuízo líquidos menos as comissões e impostos durante um período de tempo considerável (1 ano ou mais) e compare os seus resultados com um índice de mercado de ações como o PSI20. Não comece a negociar com dinheiro real enquanto não se sentir confortável com a sua capacidade de negociação.
 
-##5. Abra uma conta de corretagem de ações com um corretor de desconto
+## 5. Abra uma conta de corretagem de ações com um corretor de desconto
 
 Não há recomendações específicas a fornecer nesta matéria, uma vez que o negócio de corretagem de ações é um campo em rápida mudança. Tentar e errar é provavelmente a melhor forma de encontrar um bom corretor, mas você deverá fazer as suas próprias diligências verificando o site dos mesmos e procurando por opiniões online. O fator mais importante a ter em consideração neste caso é o custo, nomeadamente o quanto é cobrado em comissões e que outras taxas estão envolvidas. Os corretores de descontos geralmente cobram comissões de menos de 10 dólares por negociação, alguns até cobram apenas 1 dólar por negociação, e alguns ainda oferecem um número limitado de negociações gratuitas por ano, desde que você cumpra alguns critérios.. Além dos custos, deverá considerar se o reinvestimento de dividendos é oferecido (que é a melhor forma de construir as suas posições), que ferramentas de pesquisa são oferecidas, apoio ao cliente, etc.
 
-##6. Construa um pequeno portfolio de 10-50 ações
+## 6. Construa um pequeno portfolio de 10-50 ações
 
 As ações Blue são ações de empresas líderes de mercado conhecidas pela sua qualidade, segurança e capacidade de gerar lucros tanto em bons como em maus tempos, apesar de estas geralmente terem preços elevados e serem difíceis de comprar a preços baixos exceto quando os mercados estão em queda severa. Escolha ações de empresas que já tenham dado provas de rentabilidade com pelo menos algum ganho em cada um dos últimos dez anos, que paguem pelo menos algum dividendo em cada um dos últimos 15-20 anos, com pelo menos 30 porcento de crescimento de ganho por ação nos últimos 10 anos (utilizando a média de três anos para suavizar as variações, por exemplo, média de ganho por ação para os anos 2008-2010 comparados com a média de ganho por ação dos anos 1998-2000), baixa dívida em capital (menos de 1), e cobertura de juros altos (pelo menos 5).
 
 * Mantenha-se atualizado com sites diferentes de valor de investimento como o Motley Fool ou Fallen Angel Stocks para ver que tipos de negociações se andam a fazer.
 * Se você não tiver tempo ou não estiver inclinado para aprender sobre ações individuais, comprar e manter em vazio, fundos de baixo índice de despesa para sempre usando uma estratégia de custo médio do dólar é melhor e supera a maioria dos fundos de investimento, especialmente a longo prazo. Os fundos de índice com a relação de menor rácio dispendioso e volume de negócios anual são os melhores. Para investidores com menos de $100,000 para investir, os fundos de índice são normalmente os melhores. No entanto, se você tiver mais de $100,000 para investir, ações individuais são geralmente preferíveis aos fundos mútuos, pois todos os fundos cobram taxas proporcionais ao tamanho do ativo. Até mesmo o fundo de índice com taxa mais baixa, Exchange Traded Funds (ETFs), tem um rácio dispendioso anual de 0.07%. Isso equivale a apenas 70 dólares ao longo de 10 anos para um portfolio de 10.000 dólares, mas 700 dólares ao longo de 10 anos para uma carteira de US $ 100.000, e 7.000 dólares ao longo de 10 anos para uma carteira de um milhão dólares. Se o rácio de despesa for 1.50% (típico para um fundo mutuo médio), as taxas irão equivaler a $15,000 para um portfolio de $100,000, e uns gritantes $150.000 ao longo de 10 anos para uma carteira de um milhão dólares.
 
-##7. Segure a longo prazo, pelo menos 5-10 anos, de preferência para sempre
+## 7. Segure a longo prazo, pelo menos 5-10 anos, de preferência para sempre
 
 Evite a tentação de vender quando o mercado estiver num mau dia ou mês ou até mesmo ano. Por outro lado, evite a tentação de obter lucro mesmo se as suas ações tiverem subido 50 porcento, 100 porcento, 200 porcento ou mais. Enquanto os fundamentos ainda estiverem sólidos, não venda. Certifique-se apenas de que investe com dinheiro do qual não irá precisar durante cinco ou mais anos. No entanto, fará todo o sentido vender se o preço das ações estiver a apreciar muito acima de seu valor (veja abaixo), ou se os fundamentos tiverem mudado drasticamente desde a compra de modo a que a empresa provavelmente não seja mais rentável.
 
-##8. Segure-se ás vencedoras e não contribua para as perdedoras sem uma boa razão
+## 8. Segure-se ás vencedoras e não contribua para as perdedoras sem uma boa razão
 
 O Peter Lynch disse que se você tiver um jardim e todos os dias você regar as ervas e apanhar as flores, que em um ano só terá ervas. Ele disse também que foi o melhor negociador de Wall Street durante 13 anos porque ele apanhava as ervas e regava as flores.
 
-##9. Evite dicas sobre ações
+## 9. Evite dicas sobre ações
 
 Faça a sua própria pesquisa e não procure nem preste atenção a dicas sobre ações, mesmo que venham a partir de dentro. O Warren Buffett afirma que deita fora todas as cartas que lhe enviam a recomendar esta ou aquela ação. Ele diz que estes vendedores são pagos para dizerem coisas boas sobre essas ações para que a empresa possa assim ganhar dinheiro ao livrarem-se de ações através de investidores menos alertas. Foque-se em investir a longo prazo (pelo menos 20 anos) e não se distraia com oscilações de curto prazo do mercado.
 
-##10. Invista regular e sistematicamente
+## 10. Invista regular e sistematicamente
 
 A média de custo do dólar obriga a comprar baixo e vender alto e é uma estratégia simples e sólida. Ponha de parte uma percentagem do seu ordenado para comprar ações todos os meses. E lembre-se que mercados em queda são bons para comprar. Se o mercado de ações cair pelo menos 20%, mova mais dinheiro para as ações, e mova todo dinheiro disponível discricionário e títulos para ações se o mercado de ações cair mais de 50%. O mercado de ações sempre recuperou, até mesmo do crash que ocorreu entre 1929-1932.
 
-##11. Considere vender porções das suas participações enquanto uma ação aprecia significativamente, pelo menos 50 porcento a 300 porcento, com base na qualidade da ação
+## 11. Considere vender porções das suas participações enquanto uma ação aprecia significativamente, pelo menos 50 porcento a 300 porcento, com base na qualidade da ação
 
 Use limite superior para as ações de melhor qualidade. Permitindo as suas vencedoras à frente enquanto tudo corre bem irá aumentar as suas hipóteses de sucesso a longo prazo. O Warren Buffet diz que se deve manter as vencedoras para sempre, mas que se o Preço/Valor Patrimonial aumentar muito (acima de 100 é definitivamente muito alto), então deve ponderar vender a ação.
 
-##12. Consulte um corretor de confiança, banqueiro, ou consultor de investimentos, se você precisar
+## 12. Consulte um corretor de confiança, banqueiro, ou consultor de investimentos, se você precisar
 
 Nunca pare de aprender, e continue a ler o máximo de livros e artigos possíveis, escritos por peritos que investiram com sucesso nos tipos de mercados nos quais você tem interesse. Você deverá também ler artigos que o ajudem com os aspetos emocionais e psicológicos que advêm de investir, para o ajudar a lidar com os altos e baixos de participar no mercado de ações. É importante que saiba fazer as melhores escolhas possíveis quando investe na bolsa, e mesmo que faça as escolhas mais acertadas, saber lidar com a perda na eventualidade de isso acontecer.

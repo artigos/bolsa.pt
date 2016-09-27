@@ -3,13 +3,13 @@ layout: default
 title: 4 Formas de investir na bolsa
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
-##O universo dos investimentos na bolsa é enorme e requer bastante conhecimento por parte do investidor. Se está a pensar em investir, mas não sabe como começar, fique a conhecer as 4 formas mais comuns de investir na bolsa.
+## O universo dos investimentos na bolsa é enorme e requer bastante conhecimento por parte do investidor. Se está a pensar em investir, mas não sabe como começar, fique a conhecer as 4 formas mais comuns de investir na bolsa.
 
 Analise bem todas as suas caraterísticas e escolha a forma mais indicada para o seu perfil de investidor.
 
-#1. Compra de ações
+# 1. Compra de ações
 
 A compra direta de ações é a forma mais comum e mais referenciada quando falamos de investimentos na bolsa, no entanto, não significa que seja a mais indicada para todos os tipos de investidores.
 
@@ -23,7 +23,7 @@ Veja um resumo das caraterísticas da compra direta de ações:
 * Pode comprar e vender quando achar mais conveniente.
 * O investimento é só seu e não tem que prestar esclarecimentos a mais ninguém.
 
-#2. ETFs - Fundos de índices
+# 2. ETFs - Fundos de índices
 
 Aqui o investidor não compra ações, mas sim quotas de um fundo de investimento. Este fundo agrupa um conjunto de ações distintos, o que permite ao investidor ter uma carteira diversificada com apenas uma compra. O comportamento destas ações é representado pelo seu índice.
 
@@ -31,7 +31,7 @@ Aqui o investidor não compra ações, mas sim quotas de um fundo de investiment
 * Os dividendos das empresas são reaplicados automaticamente no fundo de forma a possibilitar o seu crescimento constante.
 * Reduz o risco ao investidor uma vez que representa uma carteira mais diversificada.
 
-#3. Clubes de investimento
+# 3. Clubes de investimento
 
 Os clubes de investimento também são outra forma rentável de investir, pois trata-se de um grupo de pessoas que junta o seu capital para investir. Assim, o valor a investir é muito superior do que fosse apenas um investidor.
 
@@ -42,7 +42,7 @@ Estes clubes de investimento têm representantes e estatutos sociais e são muit
 * As assembleias permitem a todos os investidores expressar a sua opinião e efetuar recomendações.
 * Menor risco, pois possibilita uma carteira diversificada.
 
-#4. Fundo de investimento em ações
+# 4. Fundo de investimento em ações
 
 Um fundo de investimento em ações é normalmente gerido por uma entidade bancária e consiste em diversos investimentos em ações. O investidor que compra uma quota deste fundo, está na realidade a compra uma parte de todas as ações geridas por este fundo.
 

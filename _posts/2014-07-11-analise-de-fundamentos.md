@@ -4,13 +4,13 @@ title: Análise de Fundamentos
 category: strategies
 ---
 
-##Estratégias de seleção de Ações
+## Estratégias de seleção de Ações
 
-#{{ page.title }}
+# {{ page.title }}
 
 Alguma vez ouviu dizer que uma empresa tem “fortes fundamentos”? A frase está tão gasta que se tornou um cliché. Qualquer analista pode referir-se aos fundamentos de uma empresa sem dizer nada de significante. Por isso aqui definimos exatamente o que são os fundamentos, como e porque é que são analisados, e porque é que uma análise aos fundamentos é muitas vezes um excelente ponto de partida para escolher boas empresas.
 
-##A Teoria
+## A Teoria
 
 Fazer uma avaliação básica dos fundamentos é bastante fácil; tudo o que é necessário é um pouco de tempo e energia. O objetivo de analisar os fundamentos de uma empresa é encontrar o valor intrínseco de uma ação, um termo bonito para o quanto você acha que uma ação realmente vale – em oposição ao valor pelo qual está a ser negociada no Mercado. Se o valor intrínseco for mais que o preço das ações de momento, a sua análise mostra-lhe que a ação vale mais que o seu preço e que faz sentido comprá-la.
 
@@ -18,7 +18,7 @@ Apesar de haver muitos métodos diferentes de encontrar o valor intrínseco, a p
 
 A ideia por trás do valor intrínseco valer o mesmo que os lucros futuros faz sentido se pensarmos em como um negócio provê valor para o(s) seu(s) dono(s). Se você tiver um pequeno negócio, o seu valor é o dinheiro que pode retirar da empresa ano após ano (não o crescimento das ações). E você pode retirar algo da empresa apenas se tiver algo restante após pagar a fornecedores e salários, reinvestir em novo equipamento, e por aí fora. Num negócio, o que interessa são os lucros, o rendimento puro menos as despesas – a base to valor intrínseco.
 
-##A Teoria do Maior Tolo
+## A Teoria do Maior Tolo
 
 Uma das assunções da teoria que do fluxo monetário descontado é que as pessoas são racionais, que ninguém iria comprar um negócio por mais do que os seus futuros fluxos monetários descontados. Uma vez que uma ação representa propriedade numa empresa, esta assunção aplica-se ao mercado de ações. Mas então porque é que as ações exibem movimentos tão voláteis? Não faz sentido o preço de uma ação flutuar tanto quando o valor intrínseco não se altera ao minuto.
 
@@ -26,7 +26,7 @@ A verdade é que muitas pessoas não vêm as ações como uma representação do
 
 Este debate demonstra a diferença geral entre um investidor técnico e um investidor fundamental. Um seguidor de análise técnica é guiado não só pelo valor, mas também pelas tendências no mercado muitas vezes representadas em gráficos. Portanto, qual é o melhor: o técnico ou o fundamental? A resposta é: nenhum. Como mencionámos antes na introdução, cada estratégia tem os seus próprios méritos. Em geral, fundamental é vista como uma estratégia a longo prazo, enquanto a técnica é mais usada para estratégias a curto prazo.
 
-##Colocando a Teoria em Prática
+## Colocando a Teoria em Prática
 
 A ideia de descontar fluxos monetários parece bem em teoria, mas implementá-la na vida real é difícil. Um dos desafios mais óbvios é determinar o quão longe no future deveremos prever os fluxos monetários. Já é difícil prever os lucros do próximo ano, então como podemos prever o percurso dos próximos 10 anos? E se uma empresa fecha? E se uma empresa sobrevive por centenas de anos? Todas estas incertezas e possibilidades explicam porque é que há tantos modelos diferentes planeados para descontar fluxos monetários, mas nenhum escapa por completo às complicações provocadas pela incerteza do futuro.
 
@@ -37,7 +37,7 @@ Taxa de desconto 8%
 Taxa de Crescimento primeiros 5 anos 15%
 Taxa de crescimento após 5 primeiros anos 5%
 
-##Parte 1: Prever 5 anos de Fluxos Monetários
+## Parte 1: Prever 5 anos de Fluxos Monetários
 
 |-----------------------------+------+------+------+------+------|
 |                             | 1    | 2    | 3    | 4    | 5    |
@@ -51,7 +51,7 @@ Taxa de crescimento após 5 primeiros anos 5%
 
 Somatório do Presente Valor (PV) do fluxo monetário __606€__
 
-##Parte 2: Valor Residual
+## Parte 2: Valor Residual
 
 |-------------------------------+---------------|
 | Valor Residual                |               |

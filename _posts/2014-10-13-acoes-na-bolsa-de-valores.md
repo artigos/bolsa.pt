@@ -3,18 +3,18 @@ layout: default
 title: Ações na bolsa de valores - O que são e como comprar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Investir em ações na bolsa de valores pode ser um negócio rentável e muito aliciante. Se está a pensar em investir o seu capital em ações, fique a saber o que são, quais as vantagens de ser investidor e como começar a investir.
 
-## O que são ações?
+##  O que são ações?
 Para poder investir em ações na bolsa de valores é preciso primeiro conhecer bem este mercado. As ações são títulos emitidos pelas sociedades anónimas (S.A.) que são empresas de elevada dimensão. Estes títulos representam uma parte do capital da empresa e quem os detém passa a ser acionista dessa mesma sociedade.
 
 Estas ações na bolsa de valores podem ser adquiridas por qualquer pessoa e ganham ou perdem valor consoante a cotação da sociedade anónima na bolsa de valores.
 
 Podem ser compradas quando o desejar e posteriormente vendidas se assim o entender. A estratégia comum é comprar quando as ações estão com o seu valor baixo e vender quando este aumenta. No entanto, ficar com as ações também pode oferecer algumas vantagens, saiba quais são!
 
-### Vantagens das ações na bolsa de valores
+###  Vantagens das ações na bolsa de valores
 
 Deter ações de determinada empresa cotada na bolsa de valores, confere-lhe direitos sobre essa mesma empresa. Quantas mais ações possuir, maiores serão as suas regalias.
 
@@ -23,7 +23,7 @@ Deter ações de determinada empresa cotada na bolsa de valores, confere-lhe dir
 * Receber informação atualizada e priveligiada sobre os negócios da empresa para que possa também avaliar o seu investimento;
 * Caso a empresa seja dissolvida irá receber o capital proporcional às suas ações;
 
-## Como comprar ações
+##  Como comprar ações
 Qualquer pessoa pode comprar ações na bolsa de valores, no entanto, são necessárias algumas condições:
 
 * Reunir o capital necessário
